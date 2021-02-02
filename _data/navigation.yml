@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: About
-  link: /about.html
+  link: /neginex/about.html
 - name: Blog
-  link: /blog.html
+  link: /neginex/blog.html
