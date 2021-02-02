@@ -4,4 +4,5 @@ title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+Hi, there! 
+I am Negishi Kanta.
