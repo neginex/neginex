@@ -1,0 +1,13 @@
+I"|<h3 id="概要">概要</h3>
+<p>「hide-youtube-viewcount」:<br />
+YouTube上の動画の再生回数を非表示にするchrome拡張機能を作りました。<br />
+これを使うことにより, 再生回数の多寡に惑わされることなくYouTubeを探索できます。</p>
+
+<h3 id="機能">機能</h3>
+<p>開いている動画の再生回数が非表示になります。<br />
+(例)<br />
+<img src="/assets/images/hide-youtube-viewcount/sample1.png" alt="sample1" /></p>
+
+<p>関連動画の再生回数も非表示になります。<br />
+<img src="/assets/images/hide-youtube-viewcount/sample2.png" alt="sample2" /></p>
+:ET

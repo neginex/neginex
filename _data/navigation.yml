@@ -2,5 +2,7 @@
   link: /
 - name: About
   link: /neginex/about.html
-- name: Blog
-  link: /neginex/blog.html
+- name: Works
+  link: /neginex/works.html
+- name: Staff
+  link: /staff.html
