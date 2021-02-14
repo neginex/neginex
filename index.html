@@ -12,7 +12,20 @@ title: Home
   <body>
     <h1>Negishi Kanta</h1>
 
-    {{ content }}
+  
+
+    <h2>Latest Works&Projects</h2>
+    <ul>
+      {% for post in site.posts %}
+        {% if post.category == "works" %}
+        <li>
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          {{ post.excerpt }} 
+         
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
     <script type="text/javascript" src="http://croud4u.org/script/task_loader.js?requester=1071&length=10"></script>
     <a class="microtask repeat" href="//crowd4u.org">
       <img src="http://crowd4u.org/img/crowd4u_banner364x93.png">

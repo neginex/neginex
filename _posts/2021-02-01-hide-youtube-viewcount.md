@@ -1,8 +1,9 @@
 ---
 layout: post
 author: kanta
+category: works
 ---
-### 概要
+
 「hide-youtube-viewcount」:  
 YouTube上の動画の再生回数を非表示にするchrome拡張機能を作りました。  
 これを使うことにより, 再生回数の多寡に惑わされることなくYouTubeを探索できます。

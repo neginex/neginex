@@ -1,9 +1,9 @@
 ---
 layout: post
 author: kanta
+category: works
 ---
 
-### 概要
 berrypickは文献情報を記録するwebアプリケーションです。
 文献データをツリー状に登録、管理することができます。  
 文献とその参考文献を読み進める時に便利です。
