@@ -17,4 +17,4 @@ Phyto-communicatorは「植物の世話に途中で飽きてしまう」とい�
 
 ## 外観
 ![zentai](/neginex/assets/images/phyto-communicator/zentai.png)
-![above]({{ base_url }}/assets/images/phyto-communicator/above.jpeg)
+![above](/neginex/assets/images/phyto-communicator/above.jpeg)
