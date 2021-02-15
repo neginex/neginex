@@ -1,8 +1,8 @@
 - name: Home
   link: /neginex
 - name: About
-  link: /about.html
+  link: /neginex/about.html
 - name: Works
-  link: /works.html
+  link: /neginex/works.html
 - name: Logs
-  link: /logs.html
+  link: /neginex/logs.html
