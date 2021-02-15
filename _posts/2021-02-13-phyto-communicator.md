@@ -2,6 +2,7 @@
 layout: post
 author: kanta
 category: works
+permalink: /neginex/works/phyto-communicator
 ---
 Phyto-communicatorは「植物の世話に途中で飽きてしまう」という問題を解決するためのIOTデバイス。  
 「植物を育てているが, 次第にお世話に飽きてきている人」, 例えば「食ベるための植物を育てているが, そのお世話をつまらないと感じている人」や
