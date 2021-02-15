@@ -10,12 +10,12 @@ berrypickは文献情報を記録するwebアプリケーションです。
 
 
 ## 登録済み文献一覧ページ
-![index](/assets/images/berrypick/index.png)
+![index](/neginex/assets/images/berrypick/index.png)
 
   
   
 ## 文献登録画面
-![new](/assets/images/berrypick/new.png)
+![new](/neginex/assets/images/berrypick/new.png)
 
 
 ## 開発環境
