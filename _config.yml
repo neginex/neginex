@@ -1,4 +1,5 @@
 collections:
   authors:
 
-baseurl: "http://neginex.github.io/neginex"
+url: https://neginex.github.io
+baseurl: /neginex
